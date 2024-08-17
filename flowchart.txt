@@ -1,0 +1,10 @@
+your_project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   └── database.py
+├── alembic/ (optional: for migrations)
+├── requirements.txt
+└── README.md
